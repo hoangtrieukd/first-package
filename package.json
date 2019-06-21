@@ -1,6 +1,6 @@
 {
   "name": "@hoangtrieukd/first-package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "repository": "github:hoangtrieukd/first-package",
   "bin": {
     "@hoangtrieukd/first-package": "main.js"
